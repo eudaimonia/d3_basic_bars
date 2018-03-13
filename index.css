@@ -1,0 +1,19 @@
+.bar {
+    /*display: inline-block;*/
+    background-color: skyblue;
+    /*vertical-align: bottom;*/
+}
+
+#bar-chart {
+    border-bottom: solid 2px red;
+    border-top: dotted 1px green;
+    padding-bottom: 0;
+    padding-top: 5px;
+    display: flex;
+    align-items: flex-end;
+}
+
+button {
+    margin-top: 5px;
+    margin-left: 5px;
+}
